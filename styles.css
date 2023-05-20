@@ -1,0 +1,122 @@
+/* THIS CSS IS FOR THE HOME PAGE */
+
+
+.Header {
+
+    font-family: monospace;
+    font-size: 50px;
+    color: rgb(0, 9, 89);
+    background-color: rgb(209, 141, 134);
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 5px;
+    
+    };
+
+    
+
+    body {
+        background-color: powderblue;
+      }
+      h1 {
+        color: blue;
+      }
+      .p1 {
+        color: rgb(0, 9, 89);
+        background-color: rgb(209, 141, 134);
+        font-size: 25px;
+        font-family: monospace;
+        border-style: solid;
+        border-width: 5px;
+        border-left-width: 10px;
+        margin-left: 690px;
+        margin-top: 50px;
+        margin-right: 90px;
+        width: 600px;
+
+      }
+      ul {
+        list-style-type: none;
+        margin: 20px;
+        padding: 0;
+        width: 300px;
+        background-color: rgb(64, 64, 239);
+        height: 100%; /* Full height */
+        overflow: auto; /* Enable scrolling if the sidenav has too much content */
+        position: fixed; /* Make it stick, even on scroll */
+        border: rgb(0, 9, 89);
+        border-style: solid;
+        border-width: 5px;
+
+      }
+      li {
+        text-align: center;
+        border-bottom: 1px solid #555;
+      }
+
+      li:last-child {
+        border-bottom: none;
+      }
+      
+      li a {
+        display: block;
+        color: rgb(0, 9, 89);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+
+      }
+      li a:hover {
+        background-color: rgb(34, 0, 119);
+      }
+      a {
+        display: block;
+        padding: 15px;
+        background-color: rgb(209, 141, 134);
+        font-family: monospace;
+        font-weight: bold;
+        font-size: 20px;
+        color: rgb(0, 9, 89);
+      }
+
+      .image {
+
+        width: 450px;
+        height: 500px;
+        margin: 100px;
+        margin-top: 30px;
+        margin-left: 300px;
+        margin-right: auto;
+        margin-bottom: 10px;
+        display: block;
+        float: left;
+  
+        }
+
+      .p2 {
+        
+        border-style: solid;
+        border-radius: 10px;
+        border-color: rgb(0, 9, 89);
+        border-width: 4px;
+        padding: 10px;
+        margin-left: 700px;
+        margin-right: 700px;
+        text-align: center;
+        font-family: monospace;
+        font-size: 25px;
+        background-color: rgb(209, 141, 134);
+        
+      }
+
+      .video {
+        border-style: solid;
+        border-radius: 30px;
+        border-width: 5px;
+        border-color: salmon;
+        box-shadow: 10px 10px rgb(29, 0, 125);
+        float: right;
+        margin-right: 100px;
+      }
